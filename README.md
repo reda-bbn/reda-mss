@@ -1,0 +1,4 @@
+- 👋 Hello, I am Reda
+- I am a full-stack Java/JEE developer
+- Interested in computer science, more specifically in Java Language Programming.
+- Designs, develops and finalizes a computer application project, from the study phase to its integration.
